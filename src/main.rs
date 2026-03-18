@@ -3,6 +3,5 @@
 /// This is the best implementation of this program to ever exist
 
 fn main() {
-    println!("Hello, World!");
-    println!("Goodbye, World!");
+    println!("Hello, world!");
 }
